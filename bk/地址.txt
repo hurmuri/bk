@@ -1,0 +1,14 @@
+博客github地址
+git@github.com:hurmuri/hurmuri.github.io.git
+
+
+华为云
+114.115.130.164
+
+
+576197190
+57tuw1
+
+administrator
+阿里云
+106.15.189.172
